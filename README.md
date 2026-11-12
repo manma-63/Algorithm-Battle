@@ -108,7 +108,7 @@ The ascending insertion order creates a right-skewed ordinary BST. The AVL Tree 
 
 ## Screenshots
 
-The `Screenshots/` folder contains terminal-style captures of actual output from the compiled program:
+The `screenshots/` folder contains terminal-style captures of actual output from the compiled program:
 
 1. Initial student dataset
 2. Successful searches in BST, AVL Tree, and hash table
@@ -127,7 +127,7 @@ Manoj_M_DSA_Submission/
 ├── student.c
 ├── README.md
 ├── report.docx
-└── Screenshots/
+└── screenshots/
     ├── 01_student_dataset.png
     ├── 02_bst_successful_search.png
     ├── 03_avl_successful_search.png
